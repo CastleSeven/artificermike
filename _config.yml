@@ -23,3 +23,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+domain: castleseven.github.io
+url: https://castleseven.github.io
+baseurl: /artificermike/
